@@ -31,3 +31,4 @@ print(perro1.caminar())
 print(len(perro1))
 for val in perro1: #Gracias al metodo magico inter, puedo hacer un for basico para iterar la clase
     print(val)
+print("Hola")
